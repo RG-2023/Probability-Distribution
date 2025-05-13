@@ -3,8 +3,8 @@
 ### - Importing libraries
 ### - Defining values
 ### - Probability Mass Function for Discrete Distribution
-*Binomial distribution*
-*Poisson distribution*
+* - Binomial distribution*
+* - Poisson distribution*
 ### - Probability Density Function for Continuous Distribution
     - Uniform distribution
     - Normal distribution
